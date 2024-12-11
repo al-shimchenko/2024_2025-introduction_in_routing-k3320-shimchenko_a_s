@@ -79,7 +79,7 @@ topology:
 2. Нарисована схема связи с помощью сайта `draw.io`
    ![](pics/1.jpg)
 3. Настроены конфигурации сетевых устройств
-Их можно посмотреть в папке [configs](/configs)  
+Их можно посмотреть в папке [configs](configs/conf.md)  
 4. Результаты настройки просмотрены с помощью команд `routing ospf neighbor print` и `mpls ldp neighbour print`
 ## R01.NY
 
